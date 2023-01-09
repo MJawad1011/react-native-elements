@@ -2784,8 +2784,8 @@ __metadata:
   linkType: hard
 
 "@rneui/base@file:../packages/base::locator=rne-website%40workspace%3A.":
-  version: 4.0.0-rc.6
-  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=ba444e&locator=rne-website%40workspace%3A."
+  version: 4.0.0-rc.7
+  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=3a5bff&locator=rne-website%40workspace%3A."
   dependencies:
     "@types/react-native-vector-icons": ^6.4.10
     color: ^3.2.1
@@ -2794,9 +2794,9 @@ __metadata:
     react-native-ratings: ^8.1.0
     react-native-size-matters: ^0.4.0
   peerDependencies:
-    react-native-safe-area-context: ^3.1.9 || ^4.0.0
+    react-native-safe-area-context: ">= 3.0.0"
     react-native-vector-icons: ">7.0.0"
-  checksum: f0006465ee9f12193ea1b6fa639807d026fa40dd636a8bc055597ab8d854c26e7d2af20324276b1c1db358cc027b3b6585312fa6abb5d5a5c1ab6e601e543c85
+  checksum: ce5830c610a15e1528db36c1b94bdc90782e7748f82f77b159560657a005eea8735ec2337171c8e04d97b27a32445cb57b1cf1616e5db1840592faa97b4ff219
   languageName: node
   linkType: hard
 
@@ -9003,11 +9003,11 @@ __metadata:
   linkType: hard
 
 "json5@npm:^2.1.2, json5@npm:^2.2.1":
-  version: 2.2.1
-  resolution: "json5@npm:2.2.1"
+  version: 2.2.3
+  resolution: "json5@npm:2.2.3"
   bin:
     json5: lib/cli.js
-  checksum: 74b8a23b102a6f2bf2d224797ae553a75488b5adbaee9c9b6e5ab8b510a2fc6e38f876d4c77dea672d4014a44b2399e15f2051ac2b37b87f74c0c7602003543b
+  checksum: 2a7436a93393830bce797d4626275152e37e877b265e94ca69c99e3d20c2b9dab021279146a39cdb700e71b2dd32a4cebd1514cd57cee102b1af906ce5040349
   languageName: node
   linkType: hard
 
