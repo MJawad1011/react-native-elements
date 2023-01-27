@@ -2784,8 +2784,8 @@ __metadata:
   linkType: hard
 
 "@rneui/base@file:../packages/base::locator=rne-website%40workspace%3A.":
-  version: 4.0.0-rc.6
-  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=ba444e&locator=rne-website%40workspace%3A."
+  version: 4.0.0-rc.7
+  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=3a5bff&locator=rne-website%40workspace%3A."
   dependencies:
     "@types/react-native-vector-icons": ^6.4.10
     color: ^3.2.1
@@ -2794,9 +2794,9 @@ __metadata:
     react-native-ratings: ^8.1.0
     react-native-size-matters: ^0.4.0
   peerDependencies:
-    react-native-safe-area-context: ^3.1.9 || ^4.0.0
+    react-native-safe-area-context: ">= 3.0.0"
     react-native-vector-icons: ">7.0.0"
-  checksum: f0006465ee9f12193ea1b6fa639807d026fa40dd636a8bc055597ab8d854c26e7d2af20324276b1c1db358cc027b3b6585312fa6abb5d5a5c1ab6e601e543c85
+  checksum: ce5830c610a15e1528db36c1b94bdc90782e7748f82f77b159560657a005eea8735ec2337171c8e04d97b27a32445cb57b1cf1616e5db1840592faa97b4ff219
   languageName: node
   linkType: hard
 
@@ -13328,9 +13328,9 @@ __metadata:
   linkType: hard
 
 "ua-parser-js@npm:^0.7.30":
-  version: 0.7.32
-  resolution: "ua-parser-js@npm:0.7.32"
-  checksum: 6b6b035dd78a0ab3369f166ab6f26225d823d83630788806d634f16259297a8f4ae6fe0be4e48f4353ac10dffded3971d7745c55d1432fdfc78a893ba58ef044
+  version: 0.7.33
+  resolution: "ua-parser-js@npm:0.7.33"
+  checksum: 1510e9ec26fcaf0d8c6ae8f1078a8230e8816f083e1b5f453ea19d06b8ef2b8a596601c92148fd41899e8b3e5f83fa69c42332bd5729b931a721040339831696
   languageName: node
   linkType: hard
 
