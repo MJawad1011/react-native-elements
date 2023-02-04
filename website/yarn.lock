@@ -2784,8 +2784,8 @@ __metadata:
   linkType: hard
 
 "@rneui/base@file:../packages/base::locator=rne-website%40workspace%3A.":
-  version: 4.0.0-rc.6
-  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=ba444e&locator=rne-website%40workspace%3A."
+  version: 4.0.0-rc.7
+  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=3a5bff&locator=rne-website%40workspace%3A."
   dependencies:
     "@types/react-native-vector-icons": ^6.4.10
     color: ^3.2.1
@@ -2794,9 +2794,9 @@ __metadata:
     react-native-ratings: ^8.1.0
     react-native-size-matters: ^0.4.0
   peerDependencies:
-    react-native-safe-area-context: ^3.1.9 || ^4.0.0
+    react-native-safe-area-context: ">= 3.0.0"
     react-native-vector-icons: ">7.0.0"
-  checksum: f0006465ee9f12193ea1b6fa639807d026fa40dd636a8bc055597ab8d854c26e7d2af20324276b1c1db358cc027b3b6585312fa6abb5d5a5c1ab6e601e543c85
+  checksum: ce5830c610a15e1528db36c1b94bdc90782e7748f82f77b159560657a005eea8735ec2337171c8e04d97b27a32445cb57b1cf1616e5db1840592faa97b4ff219
   languageName: node
   linkType: hard
 
@@ -7465,9 +7465,9 @@ __metadata:
   linkType: hard
 
 "http-cache-semantics@npm:^4.0.0, http-cache-semantics@npm:^4.1.0":
-  version: 4.1.0
-  resolution: "http-cache-semantics@npm:4.1.0"
-  checksum: 974de94a81c5474be07f269f9fd8383e92ebb5a448208223bfb39e172a9dbc26feff250192ecc23b9593b3f92098e010406b0f24bd4d588d631f80214648ed42
+  version: 4.1.1
+  resolution: "http-cache-semantics@npm:4.1.1"
+  checksum: 83ac0bc60b17a3a36f9953e7be55e5c8f41acc61b22583060e8dedc9dd5e3607c823a88d0926f9150e571f90946835c7fe150732801010845c72cd8bbff1a236
   languageName: node
   linkType: hard
 
