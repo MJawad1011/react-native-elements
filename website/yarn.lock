@@ -2784,8 +2784,8 @@ __metadata:
   linkType: hard
 
 "@rneui/base@file:../packages/base::locator=rne-website%40workspace%3A.":
-  version: 4.0.0-rc.6
-  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=ba444e&locator=rne-website%40workspace%3A."
+  version: 4.0.0-rc.7
+  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=3a5bff&locator=rne-website%40workspace%3A."
   dependencies:
     "@types/react-native-vector-icons": ^6.4.10
     color: ^3.2.1
@@ -2794,9 +2794,9 @@ __metadata:
     react-native-ratings: ^8.1.0
     react-native-size-matters: ^0.4.0
   peerDependencies:
-    react-native-safe-area-context: ^3.1.9 || ^4.0.0
+    react-native-safe-area-context: ">= 3.0.0"
     react-native-vector-icons: ">7.0.0"
-  checksum: f0006465ee9f12193ea1b6fa639807d026fa40dd636a8bc055597ab8d854c26e7d2af20324276b1c1db358cc027b3b6585312fa6abb5d5a5c1ab6e601e543c85
+  checksum: ce5830c610a15e1528db36c1b94bdc90782e7748f82f77b159560657a005eea8735ec2337171c8e04d97b27a32445cb57b1cf1616e5db1840592faa97b4ff219
   languageName: node
   linkType: hard
 
@@ -14028,8 +14028,8 @@ __metadata:
   linkType: hard
 
 "webpack@npm:^5.73.0":
-  version: 5.74.0
-  resolution: "webpack@npm:5.74.0"
+  version: 5.76.1
+  resolution: "webpack@npm:5.76.1"
   dependencies:
     "@types/eslint-scope": ^3.7.3
     "@types/estree": ^0.0.51
@@ -14060,7 +14060,7 @@ __metadata:
       optional: true
   bin:
     webpack: bin/webpack.js
-  checksum: 320c41369a75051b19e18c63f408b3dcc481852e992f83d311771c5ec0f05f2946385e8ebef62030cf3587f0a3d2f12779ffdb191569a966847289ba7313f946
+  checksum: b01fe0bc2dbca0e10d290ddb0bf81e807a031de48028176e2b21afd696b4d3f25ab9accdad888ef4a1f7c7f4d41f13d5bf2395b7653fdf3e5e3dafa54e56dab2
   languageName: node
   linkType: hard
 
